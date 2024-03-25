@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Menu-Games-LTE+
+    env: static
+    staticPublishPath: .
